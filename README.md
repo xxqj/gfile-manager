@@ -1,12 +1,12 @@
 # GFileManager
 
 #### 介绍
-java gui文件批量改名，移动，归档
+java gui文件批量改名，移动，归档等功能，可以提升工作效率
 不能商用售卖，可以免费使用
 
 #### 软件架构
 软件架构说明
-
+Java swing gui
 
 #### 安装教程
 
@@ -15,7 +15,8 @@ java gui文件批量改名，移动，归档
 3.  xxxx
 
 #### 使用说明
-
+![输入图片说明](WechatIMG933.jpg)
+![输入图片说明](WechatIMG934.jpg)
 1.  xxxx
 2.  xxxx
 3.  xxxx
