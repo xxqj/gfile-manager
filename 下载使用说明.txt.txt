@@ -1,0 +1,5 @@
+1.第一步，先安装运行环境jdk18_v18.0.0，只安装一次
+2.直接点击运行GFileManager-1.0-SNAPSHOT.jar，选择java 运行环境
+
+下载地址：
+链接: https://pan.baidu.com/s/1wGACsaKkZU3acxbe7LO95g?pwd=6u4b 提取码: 6u4b 复制这段内容后打开百度网盘手机App，操作更方便哦
