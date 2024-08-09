@@ -6,6 +6,9 @@ java gui文件批量改名，移动，归档等功能，可以提升工作效率
 不能商用售卖，可以免费使用
 软件release可以在 下载使用说明.txt.txt 文档里面获取
 
+jar太大，超过10M上传不了，只能放网盘
+https://pan.baidu.com/s/1wGACsaKkZU3acxbe7LO95g?pwd=6u4b
+
 QQ交流1群：941955968
 
 #### 软件架构
